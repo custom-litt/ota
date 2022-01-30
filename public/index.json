@@ -1,7 +1,7 @@
 {
   "api": {
     "versions": {
-      "v0": { "index": { "url": "https://ota.customlitt.com/v0/index.json" } }
+      "v0": { "index": { "url": "https://ota.customlitt.com/api/v0/index.json" } }
     }
   }
 }
