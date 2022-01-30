@@ -5,12 +5,12 @@
       "stable": "0.0.0-beta",
       "releases": {
         "0.0.0-beta-next(testing-ota)": {
-          "url": "https://ota.customlitt.com/dist/precious-time/0.0.0-beta-next(testing-ota)/laptop-15r-2764cd67-2194-4e2a-b2fe-08bc22c4d639/v0/micropython.bin",
+          "url": "https://ota.customlitt.com/dist/firmware/precious-time/0.0.0-beta-next(testing-ota)/e88bd3fa-c562-45a1-997a-0765bac56b39/micropython.bin",
           "size": 1618224,
           "sha256": "bff1c81e32ea9c33a2225e287034b83830eb17e9d259e051e4b2a094166d7524"
         },
         "0.0.0-beta": {
-          "url": "https://ota.customlitt.com/dist/precious-time/0.0.0-beta/laptop-15r-2764cd67-2194-4e2a-b2fe-08bc22c4d639/v0/micropython.bin",
+          "url": "https://ota.customlitt.com/dist/firmware/precious-time/0.0.0-beta/e88bd3fa-c562-45a1-997a-0765bac56b39/micropython.bin",
           "size": 1618192,
           "sha256": "58020a5fb78124cee362526d85cbe81a83484a30a86ce74d5412e9538863669b"
         }
