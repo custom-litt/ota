@@ -1,0 +1,15 @@
+{
+  "firmware": {
+    "precious-time": {
+      "latest": "0.0.1",
+      "stable": "0.0.1",
+      "releases": {
+        "0.0.1": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/0.0.1/laptop/c78afdd1-c707-4fcd-9fab-77b39888fb13/micropython.bin",
+          "size": 1618224,
+          "sha256": "bff1c81e32ea9c33a2225e287034b83830eb17e9d259e051e4b2a094166d7524"
+        }
+      }
+    }
+  }
+}

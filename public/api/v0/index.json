@@ -1,5 +1,9 @@
 {
   "products": {
+    "c78afdd1-c707-4fcd-9fab-77b39888fb13": {
+      "name": "short-line",
+      "more": "development board not released"
+    },
     "e88bd3fa-c562-45a1-997a-0765bac56b39": {
       "name": "13r",
       "more": "customlitt laptop board for 13r, based on customlitt core. board revision 0, core revision 0"
