@@ -1,9 +1,14 @@
 {
   "firmware": {
     "precious-time": {
-      "latest": "0.0.1",
-      "stable": "0.0.1",
+      "latest": "0.0.2",
+      "stable": "0.0.2",
       "releases": {
+        "0.0.2": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/0.0.2/app.bin",
+          "size": 1517440,
+          "sha256": "08da6f836224685a703bfe418b3eadf9601d88df165568f6552aa291dea0c527"
+        },
         "0.0.1": {
           "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/0.0.1/app.bin",
           "size": 1516976,
