@@ -1,0 +1,40 @@
+{
+  "firmware": {
+    "precious-time": {
+      "latest": "0.0.6",
+      "stable": "0.0.6",
+      "releases": {
+        "0.0.6": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/v0.0.6/app.bin",
+          "size": 1601008,
+          "sha256": "a8886ad41219d54eda8d8a8b7dc4dcc2615d2cc51f34566dbc19a019c735d010"
+        },
+        "0.0.5": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/v0.0.5/app.bin",
+          "size": 1520800,
+          "sha256": "dfff59d3b2689a5e19fb807b3d684fd603a0d7b8e718aa33d6e4b4f07198bf2d"
+        },
+        "0.0.4": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/v0.0.4/app.bin",
+          "size": 1520800,
+          "sha256": "c08091e4f18bd7c0d558aabb7e0393f71cb4d4fc7618ba752afe3711712e9db1"
+        },
+        "0.0.3": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/v0.0.3/app.bin",
+          "size": 1520800,
+          "sha256": "e6b418721d3b229de4b857811d4cc43c2e371f5e0084c5e1f9f184f36bb1a613"
+        },
+        "0.0.2": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/0.0.2/app.bin",
+          "size": 1517440,
+          "sha256": "08da6f836224685a703bfe418b3eadf9601d88df165568f6552aa291dea0c527"
+        },
+        "0.0.1": {
+          "url": "https://cdn.customlitt.com/firmware/precious-time/laptop/e88bd3fa-c562-45a1-997a-0765bac56b39/0.0.1/app.bin",
+          "size": 1516976,
+          "sha256": "191b3c1f0c6d5ac3ffe895bfa23b9616d6a77c0ec25c7ee52cdba6dffaa2b7c0"
+        }
+      }
+    }
+  }
+}

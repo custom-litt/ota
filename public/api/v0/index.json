@@ -11,6 +11,14 @@
     "e88bd3fa-c562-45a1-997a-0765bac56b39": {
       "name": "13r",
       "more": "customlitt laptop board for 13r, based on customlitt core. board revision 0, core revision 0"
+    },
+    "d89d2bbd-d65c-4ec0-abd7-9967e0a461dd": {
+      "name": "15-2022-v3",
+      "more": "customlitt laptop board for 15-2022-v3, based on customlitt core. board revision 0, core revision 0"
+    },
+    "ac79bb5e-dc0c-4799-bcc4-2587fd898faf": {
+      "name": "13-2022-v3",
+      "more": "customlitt laptop board for 13-2022-v3, based on customlitt core. board revision 0, core revision 0"
     }
   }
 }
